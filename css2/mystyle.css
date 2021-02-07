@@ -1,0 +1,32 @@
+/* #1ABC9C */
+#header{ display:none;}
+body #content{}
+#slider .slider-caption.slider-caption-center{ top: 0 !important;height:100vh;display: flex;align-items:center;justify-content: center;flex-direction: column;}
+#slider .slider-caption{ color:white;}
+#slider .slider-caption img{ width:400px;margin-bottom: 20px;}
+#slider .slider-caption h2{ color:white;}
+.imagePandaLogo{ width : 150px;background: #005050;padding-left : 20px; margin-bottom : 20px;}
+.listTarif{ list-style:none;}
+.section{background: #005050;}
+.btn-primary{background: #005050;}
+.btn-primary:hover{background: rgba(0,80,80,0.8);}
+#page-menu.dots-menu nav li a {border: 1px solid rgba(0,80,80,0.8);}
+.fixcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pricing-box .pricing-price{font-size: 40px;}
+.pricing-box .pricing-price span{font-size: 18px;}
+.pricing-box.best-price .pricing-price{color:#005050;font-size: 50px;}
+.feature-box.fbox-plain .fbox-icon i, .feature-box.fbox-plain .fbox-icon img{color:#005050}
+footer a {color: #008080;}
+#gotoTop{background: #005050;}
+#page-menu.dots-menu nav li.current a {
+    background-color: #005050;
+}
+#page-menu.dots-menu nav li .dots-menu-caption{background: #005050;}
+#page-menu.dots-menu nav li .dots-menu-caption:after{border-left-color: #005050;}
+
